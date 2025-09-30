@@ -1,0 +1,2 @@
+// For this section, use JS to select the element here by its ID and add to the innerHTML a span with a class of "tan" and text inside that span that says "This is new tan text"
+document.getElementById("firstPara").innerHTML += "<span class ='tan'> This is new tan text.</span>";
